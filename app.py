@@ -671,7 +671,7 @@ def main():
     st.markdown("---")
 
     # Hardcoded Groq API Key
-    HARDCODED_GROQ_API_KEY = "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"
+    HARDCODED_GROQ_API_KEY = "api-key"
 
     # Initialize session state
     if 'agent' not in st.session_state:
